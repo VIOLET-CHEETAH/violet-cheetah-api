@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Cheetah.Domain", "Vi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Violet.Cheetah.Api", "Violet.Cheetah.Api\Violet.Cheetah.Api.csproj", "{23581EFE-1710-40B3-BDF5-7154DDAE4F3A}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +25,13 @@ Global
 		{23581EFE-1710-40B3-BDF5-7154DDAE4F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23581EFE-1710-40B3-BDF5-7154DDAE4F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23581EFE-1710-40B3-BDF5-7154DDAE4F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027FAFCF-12BB-4DB2-893F-AA2D384A8EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027FAFCF-12BB-4DB2-893F-AA2D384A8EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027FAFCF-12BB-4DB2-893F-AA2D384A8EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027FAFCF-12BB-4DB2-893F-AA2D384A8EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF8B2F1-6A06-430C-9614-82084ED6B8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF8B2F1-6A06-430C-9614-82084ED6B8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF8B2F1-6A06-430C-9614-82084ED6B8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF8B2F1-6A06-430C-9614-82084ED6B8D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
